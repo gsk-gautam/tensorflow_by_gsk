@@ -68,9 +68,9 @@ While this is primarily a personal learning repository, feedback and suggestions
 
 ##📚 Resources
 [TensorFlow Documentation](https://www.tensorflow.org/)
-[TensorFlow Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb
+[TensorFlow Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
 
-##🚀 Let's Connect
+🚀 Let's Connect
 If you'd like to discuss machine learning or TensorFlow, feel free to connect with me!
 
 Email: gautamgsk009@gmail.com
