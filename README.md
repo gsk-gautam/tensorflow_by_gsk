@@ -1,4 +1,4 @@
-### TensorFlow Learning Journey 🧠🤖 
+# TensorFlow Learning Journey 🧠🤖 
 
 Welcome to my TensorFlow Learning Journey repository! 🎉 Here, I'll document my exploration and progress in mastering TensorFlow, a powerful open-source library for machine learning and deep learning.
 
@@ -21,43 +21,43 @@ Document learnings, challenges, and progress.
 
 ## 🌟 Topics Covered
 
-# Getting Started with TensorFlow
+### Getting Started with TensorFlow
 
-*Installing TensorFlow
-*Understanding Tensors
-*Basic operations with TensorFlow
+-Installing TensorFlow
+-Understanding Tensors
+-Basic operations with TensorFlow
 
-# Building Neural Networks
+### Building Neural Networks
 
-*Sequential models
-*Functional API
+-Sequential models
+-Functional API
 
-# Convolutional Neural Networks (CNNs)
+### Convolutional Neural Networks (CNNs)
 
-*Image classification
-*Transfer learning
+-Image classification
+-Transfer learning
 
-# Recurrent Neural Networks (RNNs)
+### Recurrent Neural Networks (RNNs)
 
-*Sequence prediction
-*Natural Language Processing basics
+-Sequence prediction
+-Natural Language Processing basics
 
-# Custom Training Loops
+### Custom Training Loops
 
-*Building models with TensorFlow's low-level APIs
+-Building models with TensorFlow's low-level APIs
 
-# Model Deployment
+### Model Deployment
 
-*Exporting models
-*Using TensorFlow Lite for mobile/edge deployment
+-Exporting models
+-Using TensorFlow Lite for mobile/edge deployment
 
 ## 🛠️ Tools & Technologies
 
-# Programming Language: Python 🐍
+### Programming Language: Python 🐍
 
-# Core Library: TensorFlow
+### Core Library: TensorFlow
 
-# Supporting Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+### Supporting Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
 
 ## 📊 Progress Tracking
 
@@ -71,8 +71,9 @@ While this is primarily a personal learning repository, feedback and suggestions
 
 [TensorFlow Tutorials](https://www.youtube.com/playlist?list=PLhhyoLH6IjfxVOdVC1P1L5z5azs0XjMsb)
 
-# 🚀 Let's Connect
+## 🚀 Let's Connect
 If you'd like to discuss machine learning or TensorFlow, feel free to connect with me!
 
 Email: gautamgsk009@gmail.com
+
 LinkedIn: [Gautam Kumar](https://www.linkedin.com/in/gautam-kumar-a83bb3223/)
