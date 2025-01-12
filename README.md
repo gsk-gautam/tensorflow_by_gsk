@@ -5,59 +5,65 @@ Welcome to my TensorFlow Learning Journey repository! 🎉 Here, I'll document m
 ## 📌 Objectives
 
 Gain hands-on experience with TensorFlow.
+
 Understand core concepts of machine learning and neural networks.
+
 Build and experiment with various models, from simple to advanced.
+
 Document learnings, challenges, and progress.
+
 ## 📂 Repository Structure
 
-'''
+
 📦 tensorflow-learning  
 ├── 📁 notebooks       # Jupyter Notebooks with step-by-step implementations  
 ├── 📁 scripts         # Standalone Python scripts for specific tasks  
 ├── 📁 datasets        # Sample datasets for model training and testing  
 ├── 📁 models          # Saved model files and checkpoints  
 ├── 📁 references      # Links, papers, and other resources  
-└── README.md          # You're here! ''' 
+└── README.md          # You're here!  
 
 ## 🌟 Topics Covered
 
 ### Getting Started with TensorFlow
-
 -Installing TensorFlow
+
 -Understanding Tensors
+
 -Basic operations with TensorFlow
 
 ### Building Neural Networks
-
 -Sequential models
+
 -Functional API
 
 ### Convolutional Neural Networks (CNNs)
-
 -Image classification
+
 -Transfer learning
 
 ### Recurrent Neural Networks (RNNs)
-
 -Sequence prediction
+
 -Natural Language Processing basics
 
 ### Custom Training Loops
-
 -Building models with TensorFlow's low-level APIs
 
 ### Model Deployment
-
 -Exporting models
+
 -Using TensorFlow Lite for mobile/edge deployment
 
 ## 🛠️ Tools & Technologies
+### Programming Language: 
+Python 🐍
 
-### Programming Language: Python 🐍
+### Core Library: 
+TensorFlow
 
-### Core Library: TensorFlow
-
-### Supporting Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+### Supporting Libraries: 
+NumPy, Pandas, Matplotlib, Scikit-learn
 
 ## 📊 Progress Tracking
 
