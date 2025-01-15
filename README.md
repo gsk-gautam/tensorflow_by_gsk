@@ -56,14 +56,11 @@ Document learnings, challenges, and progress.
 -Using TensorFlow Lite for mobile/edge deployment
 
 ## 🛠️ Tools & Technologies
-### Programming Language: 
-Python 🐍
+**Programming Language:** Python 🐍
 
-### Core Library: 
-TensorFlow
+**Core Library:** TensorFlow
 
-### Supporting Libraries: 
-NumPy, Pandas, Matplotlib, Scikit-learn
+**Supporting Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
 
 ## 📊 Progress Tracking
 
